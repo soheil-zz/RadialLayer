@@ -1,0 +1,33 @@
+PODS:
+  - FBSnapshotTestCase (2.0.7):
+    - FBSnapshotTestCase/SwiftSupport (= 2.0.7)
+  - FBSnapshotTestCase/Core (2.0.7)
+  - FBSnapshotTestCase/SwiftSupport (2.0.7):
+    - FBSnapshotTestCase/Core
+  - Nimble (3.0.0)
+  - Nimble-Snapshots (3.0.0):
+    - FBSnapshotTestCase (~> 2.0.7)
+    - Nimble
+    - Quick
+  - Quick (0.8.0)
+  - RadialLayer (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Nimble
+  - Nimble-Snapshots
+  - Quick
+  - RadialLayer (from `../`)
+
+EXTERNAL SOURCES:
+  RadialLayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 7e85180d0d141a0cf472352edda7e80d7eaeb547
+  Nimble: 4c353d43735b38b545cbb4cb91504588eb5de926
+  Nimble-Snapshots: ab41dd737dcd33a0b0cb005a30465fef70b7207a
+  Quick: 563d0f6ec5f72e394645adb377708639b7dd38ab
+  RadialLayer: 1fcc5a25a0c70350809bb97a9872dcb80073f081
+
+COCOAPODS: 0.39.0

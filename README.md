@@ -5,11 +5,18 @@
 [![License](https://img.shields.io/cocoapods/l/RadialLayer.svg?style=flat)](http://cocoapods.org/pods/RadialLayer)
 [![Platform](https://img.shields.io/cocoapods/p/RadialLayer.svg?style=flat)](http://cocoapods.org/pods/RadialLayer)
 
+With minimal configuration add an animation to all clickable elements. Animations are performed on GPU for maximum performance.
+
+:![](http://i.imgur.com/qIBtblE.gif):
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+
+### Easily Configurable (optional)
+Optionally add a `RadialLayer-Info.plist` file to your project (copy from Example project):
+:![](http://i.imgur.com/Nij27IF.png):
 
 ## Installation
 
@@ -22,7 +29,7 @@ pod "RadialLayer"
 
 ## Author
 
-Soheil, ysoheil@gmail.com
+Soheil Yasrebi, [@soheil](https://twitter.com/soheil)
 
 ## License
 

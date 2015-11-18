@@ -1,0 +1,6 @@
+framework module RadialLayer {
+  umbrella header "RadialLayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
