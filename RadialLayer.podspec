@@ -20,6 +20,7 @@ Pod::Spec.new do |s|
 With minimal configuration add an animation to all clickable elements. Animations are performed on GPU for maximum performance.
                        DESC
 
+
   s.homepage         = "https://github.com/soheil/RadialLayer"
   s.screenshots      = "http://i.imgur.com/qIBtblE.gif"
   s.license          = 'MIT'
