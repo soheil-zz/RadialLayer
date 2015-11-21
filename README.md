@@ -4,7 +4,7 @@ With minimal configuration add an animation to all clickable elements. Animation
 
 | Gif |
 :-----:
-|![](http://i.imgur.com/qIBtblE.gif =250x)|
+|![](http://i.imgur.com/qIBtblE.gif =150x)|
 
 ## Usage
 
