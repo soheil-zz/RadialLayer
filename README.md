@@ -2,7 +2,9 @@
 
 With minimal configuration add an animation to all clickable elements. Animations are performed on GPU for maximum performance.
 
-:![](http://i.imgur.com/qIBtblE.gif):
+| Gif |
+:-----:
+|![](http://i.imgur.com/qIBtblE.gif =250x)|
 
 ## Usage
 
